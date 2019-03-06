@@ -1,3 +1,8 @@
+
+
+### This code is associated with the paper from Burkett et al., "FoxP2 isoforms delineate spatiotemporal transcriptional networks for vocal learning in the zebra finch". eLife, 2018. http://dx.doi.org/10.7554/eLife.30649
+
+
 VoICE
 ========
 Vocal Inventory Clustering Engine
